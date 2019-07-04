@@ -337,8 +337,8 @@ def vertex(vertex_id):
     for key in _:
         exp.append((key.split("__", 1)[-1], args.pop(key)))
 
-    levels = args.pop("levels", [0])
-    results = fetch_data(vertex_id, levels=int(levels.pop()))
+    levels = args.get("levels", 0)
+    results = fetch_data(vertex_id, levels=int(levels))
 
     formatted_data = format_data(results, exl, exp)
 
