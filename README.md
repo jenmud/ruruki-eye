@@ -1,4 +1,3 @@
-[![GitLab](https://img.shields.io/badge/Hosted%20on-GitLab-orange?logo=gitlab)](https://gitlab.com/jenmud/ruruki-eye)
 [![Build Status](https://travis-ci.org/optiver/ruruki-eye.svg?branch=master)](https://travis-ci.org/optiver/ruruki-eye)
 [![Join the chat at https://gitter.im/optiver/ruruki-eye](https://badges.gitter.im/optiver/ruruki-eye.svg)](https://gitter.im/optiver/ruruki-eye?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
